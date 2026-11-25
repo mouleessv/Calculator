@@ -78,3 +78,7 @@ GitHub: [@mouleessv](https://github.com/mouleessv)
 ## Project Repository
 
 [View Java Calculator on GitHub](https://github.com/mouleessv/Calculator)
+
+## Output Screenshot
+
+![Calculator Output](screenshots/calculator-output.png)
